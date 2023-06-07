@@ -1,4 +1,4 @@
-# Hi there, I'm Reynaldi Ramadhani Eka Purnomo 👋 
+# Hi there, I'm Zidane Putra Sanjaya 👋 
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently interested in Web Programming
