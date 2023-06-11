@@ -3,7 +3,7 @@
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently interested in Web Programming
 - 👯 I want to create useful technology
-- 🥅 2022 Goals: Learn more and more
+- 🥅 2023 Goals: Learn more and more
 - ⚡ Fun fact: I love to play guitar and listening music
 
 ### Connect with me:
